@@ -9,7 +9,7 @@
 title                    : "江鑫"
 description              : "水文遥感，陆地碳循环遥感，遥感大数据与智能处理"
 repository               : "XiaoBai0417/jiangxin.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :
