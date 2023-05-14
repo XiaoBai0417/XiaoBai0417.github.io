@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-我现就读于南方科技大学环境科学与工程学院，师从[曾振中研究员](https://www.zhenzhongzeng.com/)。硕士毕业于中山大学遥感与地理信息工程系，导师是[张新长院士](http://www.sysuzxc.site/)和[辛秦川教授](https://gp.sysu.edu.cn/zh-hans/teacher/187)。本科学位则在河海大学地球科学与工程学院的地理信息科学系获得（该系现已划归水文水资源学院），导师是[王珂教授](https://jszy.hhu.edu.cn/wk100/)。我的研究领域涉及广泛，包括地表水文学、植被遥感、SAR定量遥感、森林扰动与灾害遥感、以及遥感大数据与智能处理。通过深入研究这些领域，探索和理解地球系统的复杂性，并寻求解决当今环境与资源管理挑战的创新方法。在学术成果方面，已经发表了10+篇学术论文，累计引用<a href='https://scholar.google.com/citations?user=cvCQJg4AAAAJ'>157次</a>。如果您有任何问题或想了解更多关于我的研究，欢迎随时联系，期待与全球的学术界同仁合作。
+现就读于南方科技大学环境科学与工程学院，师从[曾振中研究员](https://www.zhenzhongzeng.com/)。硕士毕业于中山大学遥感与地理信息工程系，导师是[张新长院士](http://www.sysuzxc.site/)和[辛秦川教授](https://gp.sysu.edu.cn/zh-hans/teacher/187)。本科学位则在河海大学地球科学与工程学院的地理信息科学系获得（该系现已划归水文水资源学院），导师是[王珂教授](https://jszy.hhu.edu.cn/wk100/)。我的研究领域涉及广泛，包括地表水文学、植被遥感、SAR定量遥感、森林扰动与灾害遥感、以及遥感大数据与智能处理。通过深入研究这些领域，探索和理解地球系统的复杂性，并寻求解决当今环境与资源管理挑战的创新方法。在学术成果方面，已经发表了10+篇学术论文，累计引用<a href='https://scholar.google.com/citations?user=cvCQJg4AAAAJ'>157次</a>。如果您有任何问题或想了解更多关于我的研究，欢迎随时联系，期待与全球的学术界同仁合作。
 
 
 
