@@ -16,15 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-现就读于 南方科技大学 环境科学与工程学院，导师是曾振中研究员。硕士毕业于 中山大学 地理科学与规划学院。本科毕业于 河海大学 地球科学与工程学院 （地理信息科学系现划分到水文水资源学院）。包括合著，我已经发表 10+ 篇学术论文 <a href='https://scholar.google.com/citations?user=cvCQJg4AAAAJ'>google scholar citations <strong><span id='total_cit'>157</span></strong></a>
-  
-研究领域包括：
-- 地表水文学
-- 植被遥感
-- SAR定量遥感
-- 森林扰动与灾害遥感
-- 遥感大数据与智能处理
+现就读于南方科技大学环境科学与工程学院，师从曾振中研究员。我的学术背景包括硕士学位于中山大学地理科学与规划学院以及本科学位于河海大学地球科学与工程学院（地理信息科学系现划分到水文水资源学院）。在我的学术生涯中，我积极参与合著并发表了10+篇学术论文，<a href='https://scholar.google.com/citations?user=cvCQJg4AAAAJ'>Google Scholar引用已达157次</strong></a>。研究领域涵盖了地表水文学、植被遥感、SAR定量遥感、森林扰动与灾害遥感以及遥感大数据与智能处理。通过深入研究这些领域，探索和理解地球系统的复杂性，并寻求解决当今环境与资源管理挑战的创新方法。如果你对我的研究感兴趣，欢迎浏览我的个人主页或与我联系。期待与全球的学术界同仁合作，推动环境科学与工程的进步，为可持续发展做出贡献。
 
 
 <span class='anchor' id='-xl'></span>
