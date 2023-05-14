@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-现就读于 南方科技大学 环境科学与工程学院，导师是曾振中研究员。硕士毕业于 中山大学 地理科学与规划学院。本科毕业于 河海大学 地球科学与工程学院 （地理信息科学系现划分到水文水资源学院）。包括合著，我已经发表 10+ 篇学术论文 <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=cvCQJg4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
+现就读于 南方科技大学 环境科学与工程学院，导师是曾振中研究员。硕士毕业于 中山大学 地理科学与规划学院。本科毕业于 河海大学 地球科学与工程学院 （地理信息科学系现划分到水文水资源学院）。包括合著，我已经发表 10+ 篇学术论文 <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=cvCQJg4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">57</a>。
   
 我的研究领域包括：
 - 地表水文学
