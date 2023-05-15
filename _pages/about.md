@@ -29,7 +29,6 @@ redirect_from:
 - *2020.09 - 2021.06*, <a href="https://www.sustech.edu.cn/"><img class="png" src="/images/SUST.png" width="20pt"></a> 南方科技大学 环境科学与工程学院, 深圳, 科研助理
 - *2017.09 - 2020.06*, <a href="https://www.sysu.edu.cn/"><img class="png" src="/images/SYSU.png" width="20pt"></a> 中山大学 地理科学与规划学院, 广州, 硕士
 - *2013.09 - 2017.06*, <a href="https://www.hhu.edu.cn/"><img class="png" src="/images/HH.png" width="20pt"></a> 河海大学 地球科学与工程学院, 南京, 本科
-- 
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
