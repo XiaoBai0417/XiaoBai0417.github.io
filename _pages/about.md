@@ -30,10 +30,19 @@ redirect_from:
 
 ### 英文
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Horizons  2023</div><img src='images/SH2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+-	`Xin Jiang`, Wencheng Wei, Lihua Zeng, Li Ma, Xiaoming Liu, Junyu Zou, Zhenzhong Zeng. Assessment of healthcare accessibility in Guangdong-Hong Kong-Macao Greater Bay Area. *Sustainable Horizons*. 2023, 6. (JCR:; IF:)  
+[[网页]](https://doi.org/10.1016/j.horiz.2023.100057)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Remote Sensing 2022</div><img src='images/JRS2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xin Jiang`, Alan D Ziegler,  Shijing Lianga, Dashan Wanga, Zhenzhong Zeng. Forest Restoration Potential in China: Implications for Carbon Capture. *Journal of Remote Sensing*. 2022, 0006. (JCR:; IF:)  
+-	`Xin Jiang`, Alan D Ziegler, Shijing Liang, Dashan Wang, Zhenzhong Zeng. Forest Restoration Potential in China: Implications for Carbon Capture. *Journal of Remote Sensing*. 2022, 0006. (JCR:; IF:)  
 [[网页]](https://spj.science.org/doi/10.34133/remotesensing.0006)
 
 </div>
