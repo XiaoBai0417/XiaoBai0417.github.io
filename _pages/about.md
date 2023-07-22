@@ -30,6 +30,15 @@ redirect_from:
 
 ### 英文
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Global Change Biology 2023</div><img src='images/SH2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+-	Xinyue He, `Xin Jiang`, Dominick V. Spracklen, Joseph Holden, Eryuan Liang, Hongyan Liu, Chongyang Xu, Jianhui Du, Kai Zhu, Paul R. Elsen, Zhenzhong Zeng. Global distribution and climatic controls of natural mountain treelines. *Global Change Biology*. 2023, 29. (JCR:Q1; IF:13.211)
+[[网页]](https://doi.org/10.1016/j.horiz.2023.100057)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sustainable Horizons  2023</div><img src='images/SH2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
