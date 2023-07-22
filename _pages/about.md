@@ -34,7 +34,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
   
 -	Xinyue He, `Xin Jiang`, Dominick V. Spracklen, Joseph Holden, Eryuan Liang, Hongyan Liu, Chongyang Xu, Jianhui Du, Kai Zhu, Paul R. Elsen, Zhenzhong Zeng. Global distribution and climatic controls of natural mountain treelines. *Global Change Biology*. 2023, 29. (JCR:Q1; IF:13.211)
-[[网页]](https://doi.org/10.1016/j.horiz.2023.100057)
+[[网页]](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.16885)
 
 </div>
 </div>
