@@ -34,7 +34,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
   
 -	Feng Yang, `Xin Jiang`, Alan D. Ziegler, Lyndon D. Estes, Jin Wu, Anping Chen, Philippe Ciais, Jie Wu, Zhenzhong Zeng. Improved Fine-Scale Tropical Forest Cover Mapping for Southeast Asia Using Planet-NICFI and Sentinel-1 Imagery. 
- *Journal of Remote Sensing*. 2023, 3. (JCR:; IF:)  
+ *Journal of Remote Sensing*. 2023, 3. (JCR:; IF:)
 [[网页]](https://spj.science.org/doi/10.34133/remotesensing.0064)
 
 </div>
