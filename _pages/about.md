@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-现就读于南方科技大学环境科学与工程学院，导师是[曾振中研究员](https://www.zhenzhongzeng.com/)。硕士毕业于中山大学遥感与地理信息工程系，导师是[张新长教授](http://www.sysuzxc.site/)和[辛秦川教授](https://gp.sysu.edu.cn/zh-hans/teacher/187)。本科学位则在河海大学地球科学与工程学院的地理信息科学系获得（地理与遥感学院），导师是[王珂教授](https://jszy.hhu.edu.cn/wk100/)。研究聚焦于对地观测的大尺度地表制图、遥感大数据处理与智能算法研发，涵盖地表水文学、植被遥感、SAR定量遥感、森林扰动与灾害遥感等关键领域，旨在开发创新性方法与技术，以应对当今环境与资源管理中的复杂科学问题。。在学术成果方面，已经发表了10+篇学术论文，累计引用<a href='https://scholar.google.com/citations?user=cvCQJg4AAAAJ'>701次</a>，同时为Remote Sensing of Environment, Earth System Science Data, ISPRS Journal of Photogrammetry and Remote Sensing, IEEE Transactions on Geoscience and Remote Sensing, Ecological Indicators多个SCI杂志提供审稿服务。 
+现就读于南方科技大学环境科学与工程学院，导师是[曾振中研究员](https://www.zhenzhongzeng.com/)。硕士毕业于中山大学遥感与地理信息工程系，导师是[张新长教授](http://www.sysuzxc.site/)和[辛秦川教授](https://gp.sysu.edu.cn/zh-hans/teacher/187)。本科学位则在河海大学地球科学与工程学院的地理信息科学系获得（地理与遥感学院），导师是[王珂教授](https://jszy.hhu.edu.cn/wk100/)。研究聚焦于对地观测的大尺度地表制图、遥感大数据处理与智能算法研发，涵盖地表水文学、植被遥感、SAR定量遥感、森林扰动与灾害遥感等关键领域，旨在开发创新性方法与技术，以应对当今环境与资源管理中的复杂科学问题。在学术成果方面，已经发表了10+篇学术论文，累计引用<a href='https://scholar.google.com/citations?user=cvCQJg4AAAAJ'>701次</a>，同时为Remote Sensing of Environment, Earth System Science Data, ISPRS Journal of Photogrammetry and Remote Sensing, IEEE Transactions on Geoscience and Remote Sensing, Scientific Data, Ecological Indicators多个SCI杂志提供审稿服务。 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
