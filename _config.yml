@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "江鑫"
-description              : "地表水文学，SAR定量遥感，遥感大数据与智能处理"
+title                    : "Xin Jiang"
+description              : "surface water hydrology, Synthetic Aperture Radar (SAR) remote sensing, and disaster remote sensing"
 repository               : "XiaoBai0417/jiangxin.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,10 +21,10 @@ google_scholar_stats_use_cdn : false
 
 # Site Author
 author:
-  name             : "江鑫"
+  name             : "Xin Jiang"
   avatar           : "images/android-chrome-512x512-modified.png"
-  bio              : "南方科技大学"
-  location         : "广东 深圳"
+  bio              : "Southern University of Science and Technology"
+  location         : "Guangdong Shenzhen"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cvCQJg4AAAAJ"
