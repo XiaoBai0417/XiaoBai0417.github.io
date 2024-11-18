@@ -16,17 +16,17 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-现就读于南方科技大学环境科学与工程学院，导师是[曾振中研究员](https://www.zhenzhongzeng.com/)。硕士毕业于中山大学遥感与地理信息工程系，导师是[张新长教授](http://www.sysuzxc.site/)和[辛秦川教授](https://gp.sysu.edu.cn/zh-hans/teacher/187)。本科学位则在河海大学地球科学与工程学院的地理信息科学系获得（地理与遥感学院），导师是[王珂教授](https://jszy.hhu.edu.cn/wk100/)。研究聚焦于对地观测的大尺度地表制图、遥感大数据处理与智能算法研发，涵盖地表水文学、植被遥感、SAR定量遥感、森林扰动与灾害遥感等关键领域，旨在开发创新性方法与技术，以应对当今环境与资源管理中的复杂科学问题。在学术成果方面，已经发表了10+篇学术论文，累计引用<a href='https://scholar.google.com/citations?user=cvCQJg4AAAAJ'>701次</a>，同时为Remote Sensing of Environment, Earth System Science Data, ISPRS Journal of Photogrammetry and Remote Sensing, IEEE Transactions on Geoscience and Remote Sensing, Scientific Data, Ecological Indicators多个SCI杂志提供审稿服务。 
+Xin Jiang is a PhD candidate at the School of Environmental Science and Engineering at Southern University of Science and Technology, supervised by Researcher [Zhenzhong Zeng](https://www.zhenzhongzeng.com/). He earned his master’s degree from the Department of Remote Sensing and Geographic Information Engineering at Sun Yat-sen University, under the guidance of Professors [Xinchang Zhang](http://www.sysuzxc.site/) and [Qinchuan Xin](http://www.sysuzxc.site/), and completed his bachelor’s degree in the Department of Geographic Information Science (College of Geography and Remote Sensing) at the School of Earth Sciences and Engineering at Hohai University, advised by Professor [Ke Wang](https://jszy.hhu.edu.cn/wk100/). His research primarily focuses on large-scale surface mapping utilizing Earth observation technologies, advanced processing of remote sensing big data, and the development of intelligent algorithms. Within a near real-time monitoring framework, he has managed over 100 TB of data and collected more than 200 TB of meter-level remote sensing, GIS, UAV imagery, and hyperspectral data. His work encompasses the observation and analysis of over 10,000 rivers globally, hundreds of thousands of reservoirs, and millions of lakes. His expertise extends to surface water hydrology, vegetation remote sensing, Synthetic Aperture Radar (SAR) remote sensing, forest disturbance analysis, and disaster remote sensing. He has authored more than ten peer-reviewed academic publications, accumulating a total of <a href='https://scholar.google.com/citations?user=cvCQJg4AAAAJ'>701</a> citations. Additionally, He contributes to the scientific community as a peer reviewer for several high-impact SCI journals, including Nexus, Remote Sensing of Environment, Earth System Science Data, ISPRS Journal of Photogrammetry and Remote Sensing, IEEE Transactions on Geoscience and Remote Sensing, Scientific Data, and Ecological Indicators. 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2021.09 - *, <a href="https://www.sustech.edu.cn/"><img class="png" src="/images/SUST.png" width="20pt"></a> 南方科技大学 环境科学与工程学院, 深圳, 博士生
-- *2020.09 - 2021.06*, <a href="https://www.sustech.edu.cn/"><img class="png" src="/images/SUST.png" width="20pt"></a> 南方科技大学 环境科学与工程学院, 深圳, 科研助理
-- *2017.09 - 2020.06*, <a href="https://www.sysu.edu.cn/"><img class="png" src="/images/SYSU.png" width="20pt"></a> 中山大学 地理科学与规划学院, 广州, 硕士
-- *2013.09 - 2017.06*, <a href="https://www.hhu.edu.cn/"><img class="png" src="/images/HH.png" width="20pt"></a> 河海大学 地球科学与工程学院, 南京, 本科
+# 🎓 Education
+- *2021.09 - *, <a href="https://www.sustech.edu.cn/"><img class="png" src="/images/SUST.png" width="20pt"></a>  Southern University of Science and Technology, Shenzhen, PhD candidate
+- *2020.09 - 2021.06*, <a href="https://www.sustech.edu.cn/"><img class="png" src="/images/SUST.png" width="20pt"></a> Southern University of Science and Technology, Shenzhen, Research assistant
+- *2017.09 - 2020.06*, <a href="https://www.sysu.edu.cn/"><img class="png" src="/images/SYSU.png" width="20pt"></a> Sun Yat-sen University, Guangzhou, MA
+- *2013.09 - 2017.06*, <a href="https://www.hhu.edu.cn/"><img class="png" src="/images/HH.png" width="20pt"></a> Hohai University, Nanjing, B.S.
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 Publication
 
 ### 英文
 ---
@@ -108,7 +108,7 @@ redirect_from:
 [[网页]](https://ieeexplore.ieee.org/abstract/document/8823071/)
 
 
-### 中文
+### Chinese
 ---
 
 - 	`江鑫`, 何心悦, 王大山, 邹俊宇, 曾振中. 利用高分辨率森林覆盖影像实现高山林线的自动提取. *遥感学报*. 2022,26(3):456-467. (EI期刊)
@@ -123,13 +123,13 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
-- *2016.03* 获得 美国大学生数学建模竞赛（MCM/ICM） `二等奖`  
-- *2015.06* 获得 “高教社杯”全国大学生数学建模竞赛 `一等奖`
+# 🏅 荣誉奖项 (Honor)
+- *2016.03* 获得 美国大学生数学建模竞赛（MCM/ICM） `二等奖` Meritorious Winner
+- *2015.06* 获得 “高教社杯”全国大学生数学建模竞赛 `一等奖` First Prize
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
+# 🏛️ 学术会议 (Conference)
 - *2021.12*, 2021年中国地理学大会, 福建福州, Oral
 - *2023.6*, 第六届全国定量遥感学术论坛, 四川成都, Oral
 
